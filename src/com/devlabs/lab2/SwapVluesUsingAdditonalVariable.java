@@ -1,6 +1,6 @@
 package com.devlabs.lab2;
 
-public class SwapValuesUsingAdditionalVariable {
+public class SwapVluesUsingAdditonalVariable {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
