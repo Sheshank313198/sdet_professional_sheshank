@@ -4,7 +4,7 @@ public class SwapVluesUsingAdditonalVariable {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        float a = 10.31f;
+        float a = 30.31f;
         float b = 2.69f;
         float c ;
         c=a;
