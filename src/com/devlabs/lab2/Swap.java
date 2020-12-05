@@ -15,7 +15,7 @@ public class Swap
 		b = c;
 		System.out.println("Value of a after Swap is :" + a);
 		System.out.println("Value of b after Swap is :" + b);
-		// TODO Auto-generated method stu
+		
 		
 	}
 
